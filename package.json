@@ -1,0 +1,14 @@
+{
+  "name": "balancedbrackets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test"
+  },
+  "author": "Jeison Cardoso",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "tape": "^4.8.0"
+  }
+}
