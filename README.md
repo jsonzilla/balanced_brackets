@@ -3,6 +3,8 @@
 # Balanced Brackets
 ----
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/27de1cc9bf504ebc89936de0f13f4026)](https://www.codacy.com/app/0um/BalancedBrackets?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=0um/BalancedBrackets&amp;utm_campaign=Badge_Grade)
+
 A function that takes a string of brackets as the input, and determines if the order of
 the brackets is valid. A bracket is considered to be any one of the following characters: ```(, ),
 {, }, [,``` or ```]```.
