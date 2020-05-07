@@ -17,7 +17,7 @@ function math_pair_pattern(o, c) {
 function balancedBrackets(str) {
   const stack = [];
 
-  for (let i = 0; i <= str.length; i++) {
+  for (let i = 0; i < str.length; i++) {
     let char = str[i];
     if (open(char)) {
       stack.push(char);
